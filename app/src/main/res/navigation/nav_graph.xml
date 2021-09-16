@@ -12,7 +12,7 @@
         tools:layout="@layout/mood_tracker" />
     <fragment
         android:id="@+id/mood_Details"
-        android:name="com.example.recylerview_dao.Mood_Details"
+        android:name="com.example.recylerview_dao.Mood_Quality"
         android:label="mood__details"
-        tools:layout="@layout/mood__quality" />
+        tools:layout="@layout/mood_quality" />
 </navigation>
